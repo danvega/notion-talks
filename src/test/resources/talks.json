@@ -1,0 +1,1107 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "page",
+      "id": "ccd80599-fdb1-4d08-b865-b8b9417cbe43",
+      "created_time": "2022-03-23T14:15:00.000Z",
+      "last_edited_time": "2022-03-23T15:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://tanzu.vmware.com/developer/springone-tour/2022/toronto/"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "9ea6a331-4a22-4431-ae17-9c6d0ac02602",
+            "name": "Conference",
+            "color": "green"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "d70be15d-df77-498b-be10-c7af8db20c92",
+            "name": "Toronto",
+            "color": "purple"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": null
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-06-07T08:00:00.000-04:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-06-08T17:00:00.000-04:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c0d13bfe-49ba-46a9-8c9a-55f6b1a8aeb0",
+              "name": "Spring Boot",
+              "color": "green"
+            },
+            {
+              "id": "e8765494-ae9c-402d-a8d3-73abb1fe35a1",
+              "name": "GraphQL",
+              "color": "blue"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SpringOne Tour",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SpringOne Tour",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/SpringOne-Tour-ccd80599fdb14d08b865b8b9417cbe43"
+    },
+    {
+      "object": "page",
+      "id": "0e177b10-1413-4b69-be1b-f6c0b15070c0",
+      "created_time": "2022-03-23T14:10:00.000Z",
+      "last_edited_time": "2022-03-23T15:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://tanzu.vmware.com/developer/springone-tour/2022/chicago/"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "9ea6a331-4a22-4431-ae17-9c6d0ac02602",
+            "name": "Conference",
+            "color": "green"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "6d60b156-019e-4a31-96b6-371f3219e2de",
+            "name": "Chicago",
+            "color": "blue"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": null
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-04-26T08:00:00.000-04:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-04-27T17:00:00.000-04:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c0d13bfe-49ba-46a9-8c9a-55f6b1a8aeb0",
+              "name": "Spring Boot",
+              "color": "green"
+            },
+            {
+              "id": "e8765494-ae9c-402d-a8d3-73abb1fe35a1",
+              "name": "GraphQL",
+              "color": "blue"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SpringOne Tour",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SpringOne Tour",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/SpringOne-Tour-0e177b1014134b69be1bf6c0b15070c0"
+    },
+    {
+      "object": "page",
+      "id": "7d4c9663-912a-4e7d-bcf4-a1cd659402fb",
+      "created_time": "2022-03-23T14:10:00.000Z",
+      "last_edited_time": "2022-03-23T14:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://tanzu.vmware.com/developer/tv/tanzu-tuesdays/0090/"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "3c92a6b1-cb0b-434c-8ac7-4581e3e224e1",
+            "name": "Tanzu Tv",
+            "color": "blue"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "=KO:",
+            "name": "Virtual",
+            "color": "default"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": null
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-03-22T15:00:00.000-04:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-03-22T16:30:00.000-04:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c0d13bfe-49ba-46a9-8c9a-55f6b1a8aeb0",
+              "name": "Spring Boot",
+              "color": "green"
+            },
+            {
+              "id": "7516113b-9c72-43a3-80ab-79baeae1faa1",
+              "name": "Spring Data",
+              "color": "default"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tanzu Tuesday - Christoph Strobl",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tanzu Tuesday - Christoph Strobl",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Tanzu-Tuesday-Christoph-Strobl-7d4c9663912a4e7dbcf4a1cd659402fb"
+    },
+    {
+      "object": "page",
+      "id": "84eedfd8-c69c-460d-9385-f5cf3ac931a5",
+      "created_time": "2022-03-23T14:10:00.000Z",
+      "last_edited_time": "2022-03-23T14:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://tanzu.vmware.com/developer/tv/code/"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "3c92a6b1-cb0b-434c-8ac7-4581e3e224e1",
+            "name": "Tanzu Tv",
+            "color": "blue"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "=KO:",
+            "name": "Virtual",
+            "color": "default"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": null
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-04-06T15:00:00.000-04:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-04-06T17:00:00.000-04:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c0d13bfe-49ba-46a9-8c9a-55f6b1a8aeb0",
+              "name": "Spring Boot",
+              "color": "green"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Code",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Code",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Code-84eedfd8c69c460d9385f5cf3ac931a5"
+    },
+    {
+      "object": "page",
+      "id": "9323917e-905e-43b5-ac06-6f15c66f9a29",
+      "created_time": "2022-02-17T11:49:00.000Z",
+      "last_edited_time": "2022-02-26T18:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://tanzu.vmware.com/developer/tv/code/0062/"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "30e07938-7aa0-4007-a7a5-a72147a08a74",
+            "name": "Live Stream",
+            "color": "purple"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "=KO:",
+            "name": "Virtual",
+            "color": "default"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": "https://www.twitch.tv/videos/1307820816"
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-02-23T15:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-02-23T17:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "8aa07a60-dcaa-4c2d-ace9-25e284f584ee",
+              "name": "Java",
+              "color": "red"
+            },
+            {
+              "id": "c0d13bfe-49ba-46a9-8c9a-55f6b1a8aeb0",
+              "name": "Spring Boot",
+              "color": "green"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tanzu TV - Code",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tanzu TV - Code",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Tanzu-TV-Code-9323917e905e43b5ac066f15c66f9a29"
+    },
+    {
+      "object": "page",
+      "id": "34c86487-be10-48d5-bd01-4edaff3c3f52",
+      "created_time": "2022-02-17T11:47:00.000Z",
+      "last_edited_time": "2022-02-28T18:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://www.danvega.dev"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "30e07938-7aa0-4007-a7a5-a72147a08a74",
+            "name": "Live Stream",
+            "color": "purple"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "=KO:",
+            "name": "Virtual",
+            "color": "default"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": null
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-02-08T10:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-02-08T11:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "843b7266-ce76-4268-bb94-8542c6438b5b",
+              "name": "Vue",
+              "color": "green"
+            },
+            {
+              "id": "d75daa70-a954-4a77-abf9-2b977499a4d3",
+              "name": "Notion",
+              "color": "brown"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Learn to Code with Dan",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Learn to Code with Dan",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Learn-to-Code-with-Dan-34c86487be1048d5bd014edaff3c3f52"
+    },
+    {
+      "object": "page",
+      "id": "b3d6b482-43df-4972-925e-2fdc095534b7",
+      "created_time": "2022-02-17T11:47:00.000Z",
+      "last_edited_time": "2022-02-26T18:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://www.meetup.com/sfjava/events/284010058/"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "e21eef4c-0bd2-499d-b0c3-159664660b63",
+            "name": "Meetup",
+            "color": "red"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "=KO:",
+            "name": "Virtual",
+            "color": "default"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": "https://youtu.be/oNs8sLbbAT4"
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-02-23T21:30:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-02-23T23:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c0d13bfe-49ba-46a9-8c9a-55f6b1a8aeb0",
+              "name": "Spring Boot",
+              "color": "green"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "What’s new in Spring Boot 2.6",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "What’s new in Spring Boot 2.6",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/What-s-new-in-Spring-Boot-2-6-b3d6b48243df4972925e2fdc095534b7"
+    },
+    {
+      "object": "page",
+      "id": "1c623116-a25a-4b6d-a35d-29141e663fba",
+      "created_time": "2022-02-17T11:35:00.000Z",
+      "last_edited_time": "2022-02-28T18:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://www.danvega.dev"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "30e07938-7aa0-4007-a7a5-a72147a08a74",
+            "name": "Live Stream",
+            "color": "purple"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "=KO:",
+            "name": "Virtual",
+            "color": "default"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": null
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-02-10T10:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-02-10T11:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "843b7266-ce76-4268-bb94-8542c6438b5b",
+              "name": "Vue",
+              "color": "green"
+            },
+            {
+              "id": "f69aa4d7-1ec4-407e-b9b7-338ce1d59448",
+              "name": "Gridsome",
+              "color": "orange"
+            },
+            {
+              "id": "f828991b-f2a2-43b6-a271-ca3ee543e5aa",
+              "name": "JavaScript",
+              "color": "yellow"
+            },
+            {
+              "id": "d75daa70-a954-4a77-abf9-2b977499a4d3",
+              "name": "Notion",
+              "color": "brown"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Learn to Code with Dan",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Learn to Code with Dan",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Learn-to-Code-with-Dan-1c623116a25a4b6da35d29141e663fba"
+    },
+    {
+      "object": "page",
+      "id": "8e8c6f36-20ca-4b6b-885b-5df62faac110",
+      "created_time": "2022-02-17T11:35:00.000Z",
+      "last_edited_time": "2022-02-26T18:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://blog.jetbrains.com/idea/2022/02/new-live-stream-building-rest-apis-with-spring-boot/"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "30e07938-7aa0-4007-a7a5-a72147a08a74",
+            "name": "Live Stream",
+            "color": "purple"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "=KO:",
+            "name": "Virtual",
+            "color": "default"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": "https://youtu.be/q_RLfOB7axQ"
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-02-16T10:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-02-16T11:15:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "8aa07a60-dcaa-4c2d-ace9-25e284f584ee",
+              "name": "Java",
+              "color": "red"
+            },
+            {
+              "id": "c0d13bfe-49ba-46a9-8c9a-55f6b1a8aeb0",
+              "name": "Spring Boot",
+              "color": "green"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Building REST APIs in Spring Boot",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Building REST APIs in Spring Boot",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Building-REST-APIs-in-Spring-Boot-8e8c6f3620ca4b6b885b5df62faac110"
+    },
+    {
+      "object": "page",
+      "id": "fa72d0b3-6b27-4325-a6f9-b4e0fb4855f6",
+      "created_time": "2022-02-17T11:35:00.000Z",
+      "last_edited_time": "2022-02-28T18:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "328be362-97cd-4200-855d-06775c141f79"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+      },
+      "archived": false,
+      "properties": {
+        "URL": {
+          "id": "%3E%5Ei%5C",
+          "type": "url",
+          "url": "https://www.danvega.dev"
+        },
+        "Type": {
+          "id": "TRh_",
+          "type": "select",
+          "select": {
+            "id": "30e07938-7aa0-4007-a7a5-a72147a08a74",
+            "name": "Live Stream",
+            "color": "purple"
+          }
+        },
+        "Location": {
+          "id": "layZ",
+          "type": "select",
+          "select": {
+            "id": "=KO:",
+            "name": "Virtual",
+            "color": "default"
+          }
+        },
+        "Recording": {
+          "id": "mmoO",
+          "type": "url",
+          "url": null
+        },
+        "StartDate": {
+          "id": "uWZA",
+          "type": "date",
+          "date": {
+            "start": "2022-02-09T10:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "EndDate": {
+          "id": "xcCO",
+          "type": "date",
+          "date": {
+            "start": "2022-02-09T11:00:00.000-05:00",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Tags": {
+          "id": "~NlK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "843b7266-ce76-4268-bb94-8542c6438b5b",
+              "name": "Vue",
+              "color": "green"
+            },
+            {
+              "id": "d75daa70-a954-4a77-abf9-2b977499a4d3",
+              "name": "Notion",
+              "color": "brown"
+            },
+            {
+              "id": "078e7983-f542-40ac-a599-0fcbf6ed1ee1",
+              "name": "Netlify",
+              "color": "purple"
+            },
+            {
+              "id": "8c574f60-b4df-418e-8f8e-cd04905f6eca",
+              "name": "Serverless",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Learn to Code with Dan",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Learn to Code with Dan",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Learn-to-Code-with-Dan-fa72d0b36b274325a6f9b4e0fb4855f6"
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false
+}

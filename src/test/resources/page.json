@@ -1,0 +1,109 @@
+{
+  "object": "page",
+  "id": "9323917e-905e-43b5-ac06-6f15c66f9a29",
+  "created_time": "2022-02-17T11:49:00.000Z",
+  "last_edited_time": "2022-02-26T18:25:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "328be362-97cd-4200-855d-06775c141f79"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "328be362-97cd-4200-855d-06775c141f79"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "database_id",
+    "database_id": "7833c2e7-be20-451d-babd-6abbc6eddabd"
+  },
+  "archived": false,
+  "properties": {
+    "URL": {
+      "id": "%3E%5Ei%5C",
+      "type": "url",
+      "url": "https://tanzu.vmware.com/developer/tv/code/0062/"
+    },
+    "Type": {
+      "id": "TRh_",
+      "type": "select",
+      "select": {
+        "id": "30e07938-7aa0-4007-a7a5-a72147a08a74",
+        "name": "Live Stream",
+        "color": "purple"
+      }
+    },
+    "Location": {
+      "id": "layZ",
+      "type": "select",
+      "select": {
+        "id": "=KO:",
+        "name": "Virtual",
+        "color": "default"
+      }
+    },
+    "Recording": {
+      "id": "mmoO",
+      "type": "url",
+      "url": "https://www.twitch.tv/videos/1307820816"
+    },
+    "StartDate": {
+      "id": "uWZA",
+      "type": "date",
+      "date": {
+        "start": "2022-02-23T15:00:00.000-05:00",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "EndDate": {
+      "id": "xcCO",
+      "type": "date",
+      "date": {
+        "start": "2022-02-23T17:00:00.000-05:00",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Tags": {
+      "id": "~NlK",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "8aa07a60-dcaa-4c2d-ace9-25e284f584ee",
+          "name": "Java",
+          "color": "red"
+        },
+        {
+          "id": "c0d13bfe-49ba-46a9-8c9a-55f6b1a8aeb0",
+          "name": "Spring Boot",
+          "color": "green"
+        }
+      ]
+    },
+    "Title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tanzu TV - Code",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tanzu TV - Code",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Tanzu-TV-Code-9323917e905e43b5ac066f15c66f9a29"
+}
